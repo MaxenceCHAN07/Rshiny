@@ -1,6 +1,6 @@
 # Rshiny - CHAN Maxence, Letexier Flavio, Mondou-Laurent Robin
 
-Notre projet nous permet de créer des statistiques et KPI en fonction de données réelles de l'enseigne Vélo'v
+Notre projet nous permet de créer des statistiques et KPI en fonction de données réelles de l'enseigne Vélo'v.
 Pour cela nous sommes aller extraire nos données avec un API publics des données de Vélo'v
 
 Notre application a pour but de permettre aux utilisateurs Vélo'v de suivre en temps réel la disponibles du parc Vélo'v (stations ouvertes ou fermés, nombre de places disponibles dans les stations, nombre de velo disponibles...)
