@@ -19,4 +19,4 @@ Documentation_rshiny.pdf est la documentation techinque et fonctionnelle de notr
 Voici le lien de notre application : https://maxencechan.shinyapps.io/application_rshiny/
 
 
-Commentaire de A.Sardeletti :
+# Commentaire de A.Sardeletti :
