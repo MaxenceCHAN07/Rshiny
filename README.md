@@ -1,4 +1,4 @@
-# Rshiny - CHAN Maxence, Letexier Flavio, Mondou-Laurent Robin
+# Rshiny - CHAN Maxence, LETEXIER Flavio, MONDOU-LAURENT Robin
 
 Notre projet nous permet de créer des statistiques et KPI en fonction de données réelles de l'enseigne Vélo'v.
 Pour cela nous sommes aller extraire nos données avec un API public des données de Vélo'v
