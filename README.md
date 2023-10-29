@@ -13,3 +13,5 @@ fichier_initial.R représente le fichier où nous avons fait la première connex
 app.R est tout simplement notre application Rshiny
 
 geocodage.csv représente le fichier avec les codes postaux des stations
+
+Voici le lien de notre application : https://maxencechan.shinyapps.io/application_rshiny/
