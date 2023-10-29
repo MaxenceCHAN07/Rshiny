@@ -11,4 +11,5 @@ Sur ce repository vous pourrez retrouver le script de notre application, la noti
 fichier_initial.R représente le fichier où nous avons fait la première connexion à l'API et où nous avons fait la première connexion à la base de données FreeSQLDatabase, nous avons ensuite créer des tables dans Rstudio que nous avons insérer dans la vrai base de données FreeSQLDatabase
 
 app.R est tout simplement notre application Rshiny
+
 geocodage.csv représente le fichier avec les codes postaux des stations
