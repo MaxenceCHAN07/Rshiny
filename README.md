@@ -1,4 +1,4 @@
-# Rshiny - CHAN Maxence, LETEXIER Flavio, MONDOU-LAURENT Robin
+# Rshiny - CHAN Maxence, TEXIER Flavio, MONDOU-LAURENT Robin
 
 Notre projet nous permet de créer des statistiques et KPI en fonction de données réelles de l'enseigne Vélo'v.
 Pour cela nous sommes aller extraire nos données avec un API public des données de Vélo'v.
@@ -13,6 +13,8 @@ fichier_initial.R représente le fichier où nous avons fait la première connex
 app.R est tout simplement notre application Rshiny
 
 geocodage.csv représente le fichier avec les codes postaux des stations
+
+Documentation_rshiny.pdf est la documentation techinque et fonctionnelle de notre application
 
 Voici le lien de notre application : https://maxencechan.shinyapps.io/application_rshiny/
 
